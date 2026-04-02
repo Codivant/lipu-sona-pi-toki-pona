@@ -60,8 +60,7 @@ note for translators: feel free to change the file names! just make sure to keep
 <br />
 
 ::buttons
-  <!-- don't translate the changelog, just remove this link -->
-  :link-button[скачать pdf]{link="/en/pdf/lipu-sona.pdf"} 
+  <!-- :link-button[скачать pdf]{link="/en/pdf/lipu-sona.pdf"}  -->
   <!-- feel free to replace this ko-fi link w/ a link to support you. or remove it. or keep it. up to u -->
   :link-button[поддержи автора на ko-fi]{link="https://ko-fi.com/S6S6IOYYY" img="/imgs/kofi_logo.webp" alt="ko-fi logo"}
 ::
