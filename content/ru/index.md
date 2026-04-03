@@ -45,16 +45,16 @@ note for translators: feel free to change the file names! just make sure to keep
   ::bg-box
   ## Другие ресурсы
 
-  - словари
+  - Cловари
     - Определения, используемые в этом курсе, основаны на [lipu Linku](https://linku.la/)
     - [словарь toki pona от lipamanka](https://lipamanka.gay/essays/dictionary) содержит длинные определения слов
-  - используй, когда сложно:
+  - Используй, когда сложно:
     - [nasin toki от jan Juli](https://github.com/kilipan/nasin-toki)
     - [lipu pu от jan Sonja](https://tokipona.org/)
-  - другие хорошие ресурсы:
+  - Другие хорошие ресурсы:
     - [курс от gregdan](https://mun.la/toki-pona/)
     - [курс от devurandom](https://lipu-sona.pona.la/)
-  - [шпаргалка по sitelen pona](https://tokipona.org/sitelen_pona.html)
+  - [Шпаргалка по sitelen pona](https://tokipona.org/sitelen_pona.html)
   ::
 
 <br />
